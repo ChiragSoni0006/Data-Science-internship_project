@@ -1,0 +1,29 @@
+ 1. **Which customers have placed the highest total order value?**
+
+ 2. **Which product lines generate the most revenue?**
+
+ 3. **Which sales representatives (employees) are responsible for the highest sales?**
+
+ 4. **Which products have never been ordered?**
+
+ 5. **What is the total revenue generated per office location?**
+
+ 6. **What is the monthly trend of total orders and revenue?**
+
+ 7. **Who are the top 5 customers by total number of orders and total payment amount?**
+
+ 8. **List all orders that have not been shipped yet.**
+
+ 9. **Which customers ordered the most distinct products?**
+
+ 10. **Which employees work in offices that are located in a specific country (e.g., USA)?**
+
+ 11. **What is the average unit price for each product line across all orders?**
+
+ 12. **Which orders include more than 3 different products?**
+
+ 13. **What is the average time between order date and payment date for each customer?**
+
+ 14. **Which customers have made payments but have no orders (possible data inconsistency)?**
+
+ 15. **List all employees and count how many customers they manage.**
